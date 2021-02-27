@@ -1,0 +1,7 @@
+[Dolphin]
+PreviewsShown=true
+SortOrder=1
+Timestamp=2018,8,2,11,40,47
+Version=4
+ViewMode=1
+VisibleRoles=CustomizedDetails,Details_text,Details_size,Details_modificationtime,Details_owner,Details_permissions
